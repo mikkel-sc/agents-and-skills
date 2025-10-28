@@ -1,0 +1,15 @@
+{
+  "id": "mikkel-sc-agents-and-skills",
+  "name": "Mikkel SC Agents and Skills",
+  "description": "A marketplace for SC Agents and Skills",
+  "owner": {
+    "name": "Mikkel SC",
+    "url": "https://github.com/mikkel-sc/agents-and-skills"
+  },
+  "repository": "https://github.com/mikkel-sc/agents-and-skills",
+  "manifestUrl": "https://raw.githubusercontent.com/mikkel-sc/agents-and-skills/main/.claude-plugin/marketplace.json",
+  "tags": ["agents", "skills"],
+  "homepage": "https://github.com/mikkel-sc/agents-and-skills",
+  "verified": false,
+  "addedAt": "2025-10-28"
+}
