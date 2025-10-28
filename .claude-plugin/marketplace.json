@@ -11,5 +11,28 @@
   "tags": ["agents", "skills"],
   "homepage": "https://github.com/mikkel-sc/agents-and-skills",
   "verified": false,
-  "addedAt": "2025-10-28"
+  "addedAt": "2025-10-28",
+  "plugins": [
+    {
+      "id": "sc-web-ui-table-master",
+      "name": "SafetyCulture Web UI Table Master",
+      "description": "Expert agent for creating and reviewing data tables using SafetyCulture's sc-web-ui component library",
+      "type": "agent",
+      "path": "plugins/sc-web-ui-table-master"
+    },
+    {
+      "id": "generate-pdf",
+      "name": "Generate PDF",
+      "description": "Convert markdown files to professionally formatted PDF documents with automatic page breaks and embedded images",
+      "type": "skill",
+      "path": "plugins/generate-pdf"
+    },
+    {
+      "id": "unit-testing",
+      "name": "Unit Testing Expert",
+      "description": "Expert skill for writing, refactoring, and migrating unit tests using Jest and SafetyCulture's testing library",
+      "type": "skill",
+      "path": "plugins/unit-testing"
+    }
+  ]
 }
