@@ -1,5 +1,6 @@
 ---
-name: generating-pdf
+name: generate-pdf
+color: orange
 description: Expert in converting markdown files to PDF using markdown-pdf Node.js library. Use this skill when the user wants to generate a PDF from markdown content, create presentation handouts, or export documentation. Handles markdown-to-PDF conversion with proper formatting and styling.
 ---
 
