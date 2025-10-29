@@ -16,17 +16,17 @@
     {
       "name": "sc-web-ui-table-master",
       "description": "Expert agent for creating and reviewing data tables using SafetyCulture's sc-web-ui component library",
-      "source": "plugins/sc-web-ui-table-master"
+      "source": "./plugins/sc-web-ui-table-master"
     },
     {
       "name": "generate-pdf",
       "description": "Convert markdown files to professionally formatted PDF documents with automatic page breaks and embedded images",
-      "source": "plugins/generate-pdf"
+      "source": "./plugins/generate-pdf"
     },
     {
       "name": "unit-testing",
       "description": "Expert skill for writing, refactoring, and migrating unit tests using Jest and SafetyCulture's testing library",
-      "source": "plugins/unit-testing"
+      "source": "./plugins/unit-testing"
     }
   ]
 }
